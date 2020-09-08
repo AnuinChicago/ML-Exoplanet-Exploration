@@ -1,5 +1,6 @@
-# Machine Learning Homework - Exoplanet Exploration
+# Machine Learning Exoplanet Exploration
 
+![planets](exoplanets.jpg)
 
 ## Background
 
@@ -7,13 +8,6 @@ Over a period of nine years in deep space, the NASA Kepler space telescope has b
 
 To help process this data, you will create machine learning models capable of classifying candidate exoplanets from the raw dataset.
 
-In this homework assignment, you will need to:
-
-1. [Preprocess the raw data](#Preprocessing)
-2. [Tune the models](#Tune-Model-Parameters)
-3. [Compare two or more models](#Evaluate-Model-Performance)
-
-- - -
 
 ## Instructions
 
@@ -43,17 +37,6 @@ In this homework assignment, you will need to:
 
 - - -
 
-## Hints and Considerations
-
-* Start by cleaning the data, removing unnecessary columns, and scaling the data.
-
-* Not all variables are significant be sure to remove any insignificant variables.
-
-* Make sure your `sklearn` package is up to date.
-
-* Try a simple model first, and then tune the model using `GridSearch`.
-
-- - -
 
 ## Submission
 
